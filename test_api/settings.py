@@ -26,7 +26,7 @@ SECRET_KEY = 'p)+dh6@4ir#q&ptgz$vl7=!0n_(h-zshb01s(!e-j7d-4r&j!7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','locationsend.herokuapp.com']
 
 
 # Application definition
