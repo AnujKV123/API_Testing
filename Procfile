@@ -1,1 +1,1 @@
-web:gunicorn CCMS.wsgi --log-file -
+web gunicorn usertestapi.wsgi:application --log-file -
