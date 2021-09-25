@@ -1,1 +1,0 @@
-web gunicorn usertestapi.wsgi:application --log-file -
